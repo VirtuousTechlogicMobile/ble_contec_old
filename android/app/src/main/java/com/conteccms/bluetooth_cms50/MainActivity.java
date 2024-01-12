@@ -46,7 +46,6 @@ import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.plugin.common.EventChannel;
 import io.flutter.plugin.common.MethodChannel;
 
-
 public class MainActivity extends FlutterActivity {
 
     private static final String CHANNEL = "com.contectcms.bluetooth_cms5";
